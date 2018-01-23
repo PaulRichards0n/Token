@@ -1,0 +1,31 @@
+Token name: Guaranteed Minimum Income
+
+Token ticker: GMI
+
+Token decimals: 18
+
+Multisig wallet address: 0x0073eC69E4cEbd953474023f99C086282de02616
+
+*****************************
+
+Crowdsale rate: 1000
+
+Crowdsale start time: 2018-01-31T00:48 (GMT - 4)
+
+Crowdsale end time: 2018-02-25T00:48 (GMT - 4)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+SafeMathLib library name: SafeMathLibExt
+
+SafeMathLib library address: 0xe1Bd9BE4d304E2C26E69f1491B1548636705E455
+
+*****************************
+
+****SafeMathLib contract ABI:**** 
+
+[{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"times","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"plus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"divides","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"minus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"}]

@@ -1,0 +1,35 @@
+Token name: Guaranteed Minimum Income
+
+Token ticker: GMI
+
+Token decimals: 18
+
+Multisig wallet address: 0x0073eC69E4cEbd953474023f99C086282de02616
+
+*****************************
+
+Crowdsale rate: 1000
+
+Crowdsale start time: 2018-01-31T00:48 (GMT - 4)
+
+Crowdsale end time: 2018-02-25T00:48 (GMT - 4)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+Finalize agent contract name: ReservedTokensFinalizeAgent
+
+Finalize agent contract address for Tier 1: 0xE08fA7Ab3Df8f99343cf7Faf9eD682f8AEAd5294
+
+*****************************
+
+****Finalize agent contract ABI:**** 
+
+[{"constant":false,"inputs":[],"name":"finalizeCrowdsale","outputs":[],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"isFinalizeAgent","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"isSane","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"crowdsale","outputs":[{"name":"","type":"address"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"token","outputs":[{"name":"","type":"address"}],"payable":false,"type":"function"},{"inputs":[{"name":"_token","type":"address"},{"name":"_crowdsale","type":"address"}],"payable":false,"type":"constructor"}]
+
+****Finalize agent contract ABI encoded constructor arguments for Tier 1:**** 
+
+00000000000000000000000042399f5b2c54f7f2c91fb327fae167be817d1dff000000000000000000000000cb7a2e0218392f52bd7df8b3e67521a223e23df1
